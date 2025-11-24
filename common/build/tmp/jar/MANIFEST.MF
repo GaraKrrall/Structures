@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Structures
+Specification-Vendor: 
+Specification-Version: 1.0
+Implementation-Title: common
+Implementation-Version: 1.0
+Implementation-Vendor: 
+Built-On-Minecraft: 1.21
+

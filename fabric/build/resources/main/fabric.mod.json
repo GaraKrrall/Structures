@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "structures",
+  "version": "1.0",
+  "name": "Structures",
+  "description": "A Structure Mod.",
+  "authors": [
+    ""
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "AGPL-3.0",
+  "icon": "structures.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "mc.garakrral.structures.Structures"
+    ]
+  },
+  "mixins": [
+    "structures.mixins.json",
+    "structures.fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": ">=1.20 <=1.21.10",
+    "java": ">=21"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

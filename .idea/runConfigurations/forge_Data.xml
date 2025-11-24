@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component>
+  <configuration default="false" factoryName="Application" name="forge Data" singleton="false" type="Application">
+    <option name="MAIN_CLASS_NAME" value="net.minecraftforge.bootstrap.ForgeBootstrap"/>
+    <option name="VM_PARAMETERS" value="&quot;-Dnet.minecraftforge.gradle.GradleStart.srg.srg-mcp=D:\Programs\IDEA\PROJECTS\Structures Mod\forge\build\createSrgToMcp\output.srg&quot; -Dmixin.env.remapRefMap=true &quot;-Dmixin.env.refMapRemappingFile=D:\Programs\IDEA\PROJECTS\Structures Mod\forge\build\createSrgToMcp\output.srg&quot; -Djava.net.preferIPv6Addresses=system"/>
+    <option name="PROGRAM_PARAMETERS" value="--launchTarget forge_userdev_data --assetIndex 17 --assetsDir C:\Users\akgls\.gradle\caches\forge_gradle\assets --gameDir . --mod structures --all --output &quot;D:\Programs\IDEA\PROJECTS\Structures Mod\forge\src\generated\resources&quot; --existing &quot;D:\Programs\IDEA\PROJECTS\Structures Mod\forge\src\main\resources&quot; --mixin.config structures.mixins.json --mixin.config structures.forge.mixins.json"/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\forge\runs\data"/>
+    <module name="Structures Mod.forge.main"/>
+    <envs>
+      <env name="MOD_CLASSES" value="modDataRun%%$PROJECT_DIR$\forge\build\sourcesSets\main"/>
+      <env name="MCP_MAPPINGS" value="official_1.21"/>
+    </envs>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+      <option enabled="true" externalProjectPath="$PROJECT_DIR$" name="Gradle.BeforeRunTask" tasks=":forge:prepareDataCompile"/>
+    </method>
+  </configuration>
+</component>

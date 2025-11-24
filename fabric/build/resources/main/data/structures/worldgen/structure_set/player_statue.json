@@ -1,0 +1,60 @@
+{
+  "structures": [
+    {
+      "structure": "structures:player_statue",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 79,
+    "separation": 20,
+    "salt": 1,
+    "allowed_terrain": {
+      "type": "minecraft:all_of",
+      "predicates": [
+
+        {
+          "type": "minecraft:heightmap",
+          "heightmap": "WORLD_SURFACE_WG"
+        },
+
+        {
+          "type": "minecraft:flat",
+          "max_deviation": 0,
+          "radius": 8
+        },
+
+        {
+          "type": "minecraft:block_predicate",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:inside_world_bounds"
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": [
+                    "minecraft:water",
+                    "minecraft:flowing_water"
+                  ]
+                }
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:grass_block",
+                  "minecraft:dirt",
+                  "minecraft:stone"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

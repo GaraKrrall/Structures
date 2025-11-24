@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Structures_Mod.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Structures_Mod.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Structures_Mod.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Structures_Mod.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Structures_Mod.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Structures_Mod.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Structures_Mod.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Structures_Mod.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Structures_Mod.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Structures_Mod.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/Structures_Mod.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/Structures_Mod.neoforge.main.iml" />
+    </modules>
+  </component>
+</project>

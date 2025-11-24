@@ -1,0 +1,7 @@
+Task: BUNDLER_EXTRACT
+Input:   C:\Users\akgls\.gradle\caches\neoformruntime\artifacts\minecraft_1.21_server.jar
+Output:  D:\Programs\IDEA\PROJECTS\Structures Mod\common\build\tmp\neoformruntime\20251123-220034_extractServer\.\output.jar
+All:     false
+JarOnly: true
+Libs:    false
+Extracted: versions/1.21/server-1.21.jar

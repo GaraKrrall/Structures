@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mc.garakrral.structures","l":"CommonClass"},{"p":"mc.garakrral.structures","l":"Structures"}];updateSearchResults();
