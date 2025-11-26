@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Specification-Title: Structures
 Specification-Vendor: 
-Specification-Version: 1.0
+Specification-Version: 1.2
 Implementation-Title: forge
-Implementation-Version: 1.0
+Implementation-Version: 1.2
 Implementation-Vendor: 
 Built-On-Minecraft: 1.21
 

@@ -4,7 +4,7 @@ license = "AGPL-3.0" # Review your options at https://choosealicense.com/.
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
 [[mods]] #mandatory
 modId = "structures" #mandatory
-version = "1.0" #mandatory
+version = "1.2" #mandatory
 displayName = "Structures" #mandatory
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional, see https://docs.neoforged.net/docs/misc/updatechecker/
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional, displayed in the mod UI
@@ -25,7 +25,7 @@ side = "BOTH" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER
 [[dependencies."structures"]]
 modId = "minecraft"
 type = "required" #mandatory Can be one of "required", "optional", "incompatible" or "discouraged"
-versionRange = "[1.20, 1.21.10]"
+versionRange = "[1.21, 1.21.10]"
 ordering = "NONE"
 side = "BOTH"
 
