@@ -1,0 +1,9 @@
+/locate structure structures:house
+/tp @s -816 ~ -384
+/locate structure structures:house2
+/tp @s -1088 ~ 176
+/time set day
+/locate structure structures:house2
+/tp @s -1424 ~ 448
+/locate structure minecraft:village_plains
+/tp @s -1232 ~ 592
