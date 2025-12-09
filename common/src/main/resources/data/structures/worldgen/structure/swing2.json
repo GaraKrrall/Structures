@@ -1,10 +1,11 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": [
-    "minecraft:plains"
+    "minecraft:plains",
+    "minecraft:snowy_plains"
   ],
   "step": "surface_structures",
-  "terrain_adaptation": "none",
+  "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "structures:swing2",
   "size": 1,

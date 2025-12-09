@@ -1,14 +1,14 @@
 {
   "structures": [
     {
-      "structure": "structures:rock",
+      "structure": "structures:mini_tower",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 5,
-    "separation": 2,
-    "salt": 23412
+    "spacing": 15,
+    "separation": 7,
+    "salt": 56956
   }
 }

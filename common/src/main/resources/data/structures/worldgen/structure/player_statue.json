@@ -7,7 +7,7 @@
     "minecraft:cherry_grove"
   ],
   "step": "surface_structures",
-  "terrain_adaptation": "none",
+  "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "structures:player_statue",
   "size": 1,

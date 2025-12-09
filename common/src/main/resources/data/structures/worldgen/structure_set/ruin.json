@@ -9,7 +9,7 @@
     "type": "minecraft:random_spread",
     "spacing": 100,
     "separation": 50,
-    "salt": 4,
+    "salt": 847346,
 
     "allowed_terrain": {
       "type": "minecraft:all_of",
