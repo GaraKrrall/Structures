@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:forest",
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:taiga",
+    "minecraft:jungle",
+    "minecraft:cherry_grove",
+    "minecraft:savanna"
+  ],
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {},
+  "start_pool": "structures:pillager_castle",
+  "size": 1,
+  "start_height": {
+    "absolute": 0
+  },
+  "project_start_to_heightmap": "MOTION_BLOCKING_NO_LEAVES",
+  "max_distance_from_center": 1,
+  "use_expansion_hack": false
+}

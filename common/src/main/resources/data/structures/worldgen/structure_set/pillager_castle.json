@@ -1,14 +1,14 @@
 {
   "structures": [
     {
-      "structure": "structures:swing",
+      "structure": "structures:pillager_castle",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 35,
-    "separation": 17,
-    "salt": 90678
+    "spacing": 40,
+    "separation": 18,
+    "salt": 4954843
   }
 }
