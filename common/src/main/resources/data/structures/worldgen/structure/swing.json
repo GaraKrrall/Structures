@@ -1,8 +1,13 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": [
-    "minecraft:plains",
-    "minecraft:snowy_plains"
+    "minecraft:forest",
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:taiga",
+    "minecraft:jungle",
+    "minecraft:cherry_grove",
+    "minecraft:sparse_jungle"
   ],
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",

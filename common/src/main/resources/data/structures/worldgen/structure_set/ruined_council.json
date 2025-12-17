@@ -1,14 +1,14 @@
 {
   "structures": [
     {
-      "structure": "structures:rock",
+      "structure": "structures:ruined_council",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 5,
-    "separation": 2,
-    "salt": 23412
+    "spacing": 40,
+    "separation": 16,
+    "salt": 178349
   }
 }
