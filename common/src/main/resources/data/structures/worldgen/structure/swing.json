@@ -3,11 +3,8 @@
   "biomes": [
     "minecraft:forest",
     "minecraft:birch_forest",
-    "minecraft:dark_forest",
     "minecraft:taiga",
-    "minecraft:jungle",
-    "minecraft:cherry_grove",
-    "minecraft:sparse_jungle"
+    "minecraft:cherry_grove"
   ],
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
